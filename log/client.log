@@ -1,0 +1,1068 @@
+[ 2023-09-18 04:23:32,648 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2023-09-18 04:23:33,071 ] Using spritesheet cache size of 910
+[ 2023-09-18 04:23:34,271 ] Asset loading complete
+[ 2023-09-18 04:23:49,212 ] BattlEye: "Initialized (v1.249)"
+[ 2023-09-18 04:23:49,213 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2023-09-18 04:23:49,213 ] BattlEye: "Restarting client is necessary, update required"
+[ 2023-09-18 04:23:49,213 ] BattlEye: "Config entry: GameID tibia"
+[ 2023-09-18 04:23:49,213 ] BattlEye: "Config entry: MasterPort 7171"
+[ 2023-09-18 04:23:49,277 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "[GM] Rodrigo" )
+[ 2023-09-18 04:23:49,288 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2023-09-18 04:23:53,373 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2023-09-18 04:23:54,373 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2023-09-18 04:23:58,423 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2023-09-18 04:23:58,431 ] Disconnected from gameserver
+[ 2023-09-18 04:23:59,655 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "[GM] Rodrigo" )
+[ 2023-09-18 04:23:59,657 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2023-09-18 04:24:03,773 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2023-09-18 04:24:04,773 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2023-09-18 04:24:08,873 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2023-09-18 04:24:08,877 ] Disconnected from gameserver
+[ 2023-09-18 04:24:10,032 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "[GM] Rodrigo" )
+[ 2023-09-18 04:24:10,034 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2023-09-18 04:24:10,995 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2023-09-18 04:24:14,123 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2023-09-18 04:24:15,123 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2023-09-18 04:24:19,173 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2023-09-18 04:24:19,178 ] Disconnected from gameserver
+[ 2023-09-18 04:24:20,328 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "[GM] Rodrigo" )
+[ 2023-09-18 04:24:20,330 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2023-09-18 04:24:21,291 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2023-09-18 04:24:23,896 ] Retrying to obtain clipboard.
+[ 2023-09-18 04:24:24,423 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2023-09-18 04:24:25,424 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2023-09-18 04:24:26,264 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2023-09-18 04:26:52,015 ] Retrying to obtain clipboard.
+[ 2023-09-18 04:27:57,762 ] Retrying to obtain clipboard.
+[ 2023-09-18 04:29:39,501 ] Retrying to obtain clipboard.
+[ 2023-09-18 04:31:05,322 ] Retrying to obtain clipboard.
+[ 2023-09-18 04:34:15,515 ] Retrying to obtain clipboard.
+[ 2023-09-18 04:34:16,851 ] Retrying to obtain clipboard.
+[ 2023-09-18 04:34:18,907 ] Retrying to obtain clipboard.
+[ 2023-09-18 04:34:19,412 ] Retrying to obtain clipboard.
+[ 2023-09-18 04:46:20,944 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2023-09-18 04:46:21,138 ] Using spritesheet cache size of 910
+[ 2023-09-18 04:46:22,391 ] Asset loading complete
+[ 2023-09-18 04:46:22,543 ] Could not find Sound Effect ID 688
+[ 2023-09-18 04:49:18,354 ] Retrying to obtain clipboard.
+[ 2023-09-18 04:49:42,123 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2023-09-18 04:49:42,314 ] Using spritesheet cache size of 910
+[ 2023-09-18 04:49:43,006 ] Asset loading complete
+[ 2023-09-18 04:54:16,269 ] Update failed. Please reinstall Tibia to update your client.
+[ 2023-09-18 04:59:33,885 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2023-09-18 04:59:34,174 ] Using spritesheet cache size of 910
+[ 2023-09-18 04:59:35,446 ] Asset loading complete
+[ 2023-09-18 04:59:45,487 ] BattlEye: "Initialized (v1.249)"
+[ 2023-09-18 04:59:45,487 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2023-09-18 04:59:45,487 ] BattlEye: "Restarting client is necessary, update required"
+[ 2023-09-18 04:59:45,487 ] BattlEye: "Config entry: GameID tibia"
+[ 2023-09-18 04:59:45,487 ] BattlEye: "Config entry: MasterPort 7171"
+[ 2023-09-18 04:59:45,548 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "GOD" )
+[ 2023-09-18 04:59:45,554 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 04:59:49,748 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "Connection refused" )
+[ 2023-09-18 04:59:50,748 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 04:59:54,898 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "Connection refused" )
+[ 2023-09-18 04:59:54,905 ] Disconnected from gameserver
+[ 2023-09-18 04:59:56,127 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "GOD" )
+[ 2023-09-18 04:59:56,132 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 05:00:00,248 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "Connection refused" )
+[ 2023-09-18 05:00:01,248 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 05:00:05,398 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "Connection refused" )
+[ 2023-09-18 05:00:05,402 ] Disconnected from gameserver
+[ 2023-09-18 05:00:06,546 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "GOD" )
+[ 2023-09-18 05:00:06,548 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 05:00:07,514 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2023-09-18 05:00:10,698 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "Connection refused" )
+[ 2023-09-18 05:00:11,698 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 05:00:15,848 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "Connection refused" )
+[ 2023-09-18 05:00:15,860 ] Disconnected from gameserver
+[ 2023-09-18 05:00:17,014 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "GOD" )
+[ 2023-09-18 05:00:17,017 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 05:00:17,980 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2023-09-18 05:00:21,148 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "Connection refused" )
+[ 2023-09-18 05:00:22,148 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 05:00:26,298 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "Connection refused" )
+[ 2023-09-18 05:00:26,306 ] Disconnected from gameserver
+[ 2023-09-18 05:00:28,553 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "GOD" )
+[ 2023-09-18 05:00:28,555 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 05:00:29,514 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2023-09-18 05:00:32,699 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "Connection refused" )
+[ 2023-09-18 05:00:33,748 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 05:00:37,898 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "Connection refused" )
+[ 2023-09-18 05:00:37,905 ] Disconnected from gameserver
+[ 2023-09-18 05:00:42,350 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "GOD" )
+[ 2023-09-18 05:00:42,353 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 05:00:42,368 ] Connected to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 05:00:42,598 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "The remote host closed the connection" )
+[ 2023-09-18 05:00:42,608 ] Disconnected from gameserver
+[ 2023-09-18 05:00:43,308 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2023-09-18 05:00:48,670 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2023-09-18 05:00:50,096 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "GOD" )
+[ 2023-09-18 05:00:50,098 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 05:00:51,062 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2023-09-18 05:00:54,398 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "Connection refused" )
+[ 2023-09-18 05:00:55,398 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 05:00:59,086 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2023-09-18 05:01:37,611 ] Retrying to obtain clipboard.
+[ 2023-09-18 05:01:37,817 ] Retrying to obtain clipboard.
+[ 2023-09-18 05:01:37,969 ] Retrying to obtain clipboard.
+[ 2023-09-18 05:02:01,357 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2023-09-18 05:02:02,798 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "GOD" )
+[ 2023-09-18 05:02:02,800 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 05:02:02,808 ] Connected to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 05:02:03,000 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "The remote host closed the connection" )
+[ 2023-09-18 05:02:03,008 ] Disconnected from gameserver
+[ 2023-09-18 05:02:03,765 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2023-09-18 05:02:03,972 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2023-09-18 05:08:53,332 ] Retrying to obtain clipboard.
+[ 2023-09-18 05:16:32,599 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2023-09-18 05:16:32,787 ] Using spritesheet cache size of 910
+[ 2023-09-18 05:16:33,496 ] Asset loading complete
+[ 2023-09-18 05:16:49,239 ] BattlEye: "Initialized (v1.249)"
+[ 2023-09-18 05:16:49,239 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2023-09-18 05:16:49,239 ] BattlEye: "Restarting client is necessary, update required"
+[ 2023-09-18 05:16:49,239 ] BattlEye: "Config entry: GameID tibia"
+[ 2023-09-18 05:16:49,239 ] BattlEye: "Config entry: MasterPort 7171"
+[ 2023-09-18 05:16:49,296 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "Druid Sample" )
+[ 2023-09-18 05:16:49,301 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 05:16:49,309 ] Connected to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 05:16:49,516 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "The remote host closed the connection" )
+[ 2023-09-18 05:16:49,526 ] Disconnected from gameserver
+[ 2023-09-18 05:16:51,130 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "Druid Sample" )
+[ 2023-09-18 05:16:51,166 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 05:16:52,091 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2023-09-18 05:16:55,316 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "Connection refused" )
+[ 2023-09-18 05:16:56,316 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 05:17:00,466 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "Connection refused" )
+[ 2023-09-18 05:17:00,473 ] Disconnected from gameserver
+[ 2023-09-18 05:17:01,620 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "Druid Sample" )
+[ 2023-09-18 05:17:01,623 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 05:17:02,574 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2023-09-18 05:17:05,766 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "Connection refused" )
+[ 2023-09-18 05:17:06,816 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 05:17:10,966 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "Connection refused" )
+[ 2023-09-18 05:17:10,971 ] Disconnected from gameserver
+[ 2023-09-18 05:17:12,128 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "Druid Sample" )
+[ 2023-09-18 05:17:12,166 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 05:17:13,090 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2023-09-18 05:17:13,729 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2023-09-18 05:19:54,196 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2023-09-18 05:19:55,792 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "Druid Sample" )
+[ 2023-09-18 05:19:55,794 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 05:19:55,803 ] Connected to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 05:19:56,744 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2023-09-18 05:23:27,482 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2023-09-18 05:23:27,666 ] Using spritesheet cache size of 910
+[ 2023-09-18 05:23:28,354 ] Asset loading complete
+[ 2023-09-18 05:23:33,850 ] BattlEye: "Initialized (v1.249)"
+[ 2023-09-18 05:23:33,850 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2023-09-18 05:23:33,850 ] BattlEye: "Restarting client is necessary, update required"
+[ 2023-09-18 05:23:33,850 ] BattlEye: "Config entry: GameID tibia"
+[ 2023-09-18 05:23:33,850 ] BattlEye: "Config entry: MasterPort 7171"
+[ 2023-09-18 05:23:33,906 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "Druid Sample" )
+[ 2023-09-18 05:23:33,912 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 05:23:33,920 ] Connected to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 05:24:20,922 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "The remote host closed the connection" )
+[ 2023-09-18 05:24:20,980 ] Disconnected from gameserver
+[ 2023-09-18 05:25:40,095 ] Retrying to obtain clipboard.
+[ 2023-09-18 05:25:40,956 ] Retrying to obtain clipboard.
+[ 2023-09-18 05:26:52,737 ] Retrying to obtain clipboard.
+[ 2023-09-18 05:26:58,322 ] Retrying to obtain clipboard.
+[ 2023-09-18 05:27:00,251 ] Retrying to obtain clipboard.
+[ 2023-09-18 05:27:02,123 ] Retrying to obtain clipboard.
+[ 2023-09-18 05:27:04,483 ] Retrying to obtain clipboard.
+[ 2023-09-18 05:27:06,671 ] Retrying to obtain clipboard.
+[ 2023-09-18 05:27:30,018 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2023-09-18 05:27:31,881 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "Druid Sample" )
+[ 2023-09-18 05:27:31,883 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 05:27:32,841 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2023-09-18 05:27:36,018 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "Connection refused" )
+[ 2023-09-18 05:27:37,018 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 05:27:41,169 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "Connection refused" )
+[ 2023-09-18 05:27:41,176 ] Disconnected from gameserver
+[ 2023-09-18 05:27:42,325 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "Druid Sample" )
+[ 2023-09-18 05:27:42,368 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 05:27:43,291 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2023-09-18 05:27:44,268 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2023-09-18 05:28:07,800 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2023-09-18 05:28:09,009 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "Rodrigo" )
+[ 2023-09-18 05:28:09,011 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 05:28:09,963 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2023-09-18 05:28:13,169 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "Connection refused" )
+[ 2023-09-18 05:28:14,226 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 05:28:18,368 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "Connection refused" )
+[ 2023-09-18 05:28:18,374 ] Disconnected from gameserver
+[ 2023-09-18 05:28:19,531 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "Rodrigo" )
+[ 2023-09-18 05:28:19,533 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 05:28:20,496 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2023-09-18 05:28:23,669 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "Connection refused" )
+[ 2023-09-18 05:28:24,668 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 05:28:28,818 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "Connection refused" )
+[ 2023-09-18 05:28:28,824 ] Disconnected from gameserver
+[ 2023-09-18 05:28:29,970 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "Rodrigo" )
+[ 2023-09-18 05:28:29,972 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 05:28:30,950 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2023-09-18 05:28:34,119 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "Connection refused" )
+[ 2023-09-18 05:28:35,168 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 05:28:39,318 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "Connection refused" )
+[ 2023-09-18 05:28:39,323 ] Disconnected from gameserver
+[ 2023-09-18 05:28:41,571 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "Rodrigo" )
+[ 2023-09-18 05:28:41,572 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 05:28:42,528 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2023-09-18 05:28:45,718 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "Connection refused" )
+[ 2023-09-18 05:28:46,718 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 05:28:50,868 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "Connection refused" )
+[ 2023-09-18 05:28:50,873 ] Disconnected from gameserver
+[ 2023-09-18 05:28:55,308 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "Rodrigo" )
+[ 2023-09-18 05:28:55,310 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 05:28:56,276 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2023-09-18 05:28:59,468 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "Connection refused" )
+[ 2023-09-18 05:29:00,468 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 05:29:04,618 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "Connection refused" )
+[ 2023-09-18 05:29:04,624 ] Disconnected from gameserver
+[ 2023-09-18 05:29:10,156 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "Rodrigo" )
+[ 2023-09-18 05:29:10,158 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 05:29:10,747 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2023-09-18 05:29:11,120 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2023-09-18 05:33:00,666 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2023-09-18 05:33:01,808 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "[GM] Rodrigo" )
+[ 2023-09-18 05:33:01,810 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 05:33:01,818 ] Connected to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 05:33:02,761 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2023-09-18 05:39:45,170 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "The remote host closed the connection" )
+[ 2023-09-18 05:39:45,230 ] Disconnected from gameserver
+[ 2023-09-18 05:40:08,514 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2023-09-18 05:40:09,030 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "[GM] Rodrigo" )
+[ 2023-09-18 05:40:09,033 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 05:40:09,170 ] Connected to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 05:40:09,994 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2023-09-18 05:40:14,931 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2023-09-18 05:40:15,268 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "The remote host closed the connection" )
+[ 2023-09-18 05:40:15,333 ] Disconnected from gameserver
+[ 2023-09-18 05:40:15,456 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "[GM] Rodrigo" )
+[ 2023-09-18 05:40:15,458 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 05:40:16,416 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2023-09-18 05:40:19,619 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "Connection refused" )
+[ 2023-09-18 05:40:20,668 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 05:40:24,818 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "Connection refused" )
+[ 2023-09-18 05:40:24,823 ] Disconnected from gameserver
+[ 2023-09-18 05:40:24,904 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "[GM] Rodrigo" )
+[ 2023-09-18 05:40:24,907 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 05:40:25,854 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2023-09-18 05:40:29,068 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "Connection refused" )
+[ 2023-09-18 05:40:30,068 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 05:40:32,480 ] Retrying to obtain clipboard.
+[ 2023-09-18 05:40:33,120 ] Retrying to obtain clipboard.
+[ 2023-09-18 05:40:34,218 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "Connection refused" )
+[ 2023-09-18 05:40:34,223 ] Disconnected from gameserver
+[ 2023-09-18 05:40:34,311 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "[GM] Rodrigo" )
+[ 2023-09-18 05:40:34,314 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 05:40:35,278 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2023-09-18 05:40:35,753 ] Retrying to obtain clipboard.
+[ 2023-09-18 05:40:38,468 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "Connection refused" )
+[ 2023-09-18 05:40:38,606 ] Retrying to obtain clipboard.
+[ 2023-09-18 05:40:39,518 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 05:40:43,668 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "Connection refused" )
+[ 2023-09-18 05:40:43,674 ] Disconnected from gameserver
+[ 2023-09-18 05:40:43,748 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "[GM] Rodrigo" )
+[ 2023-09-18 05:40:43,751 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 05:40:44,715 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2023-09-18 05:40:47,918 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "Connection refused" )
+[ 2023-09-18 05:40:48,918 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 05:40:53,068 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "Connection refused" )
+[ 2023-09-18 05:40:53,074 ] Disconnected from gameserver
+[ 2023-09-18 05:40:53,156 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "[GM] Rodrigo" )
+[ 2023-09-18 05:40:53,158 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 05:40:54,125 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2023-09-18 05:40:57,319 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "Connection refused" )
+[ 2023-09-18 05:40:58,319 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 05:41:02,468 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "Connection refused" )
+[ 2023-09-18 05:41:02,474 ] Disconnected from gameserver
+[ 2023-09-18 05:41:02,562 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "[GM] Rodrigo" )
+[ 2023-09-18 05:41:02,564 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 05:41:02,572 ] Connected to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 05:41:03,512 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2023-09-18 05:41:06,968 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "The remote host closed the connection" )
+[ 2023-09-18 05:41:07,026 ] Disconnected from gameserver
+[ 2023-09-18 05:41:07,179 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "[GM] Rodrigo" )
+[ 2023-09-18 05:41:07,183 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 05:41:07,895 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2023-09-18 05:41:08,119 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2023-09-18 05:41:08,971 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "[GM] Rodrigo" )
+[ 2023-09-18 05:41:08,973 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 05:41:09,933 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2023-09-18 05:41:11,304 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2023-09-18 05:41:25,729 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "[GM] Rodrigo" )
+[ 2023-09-18 05:41:25,732 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 05:41:25,875 ] Connected to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 05:41:26,701 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2023-09-18 05:42:06,170 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "The remote host closed the connection" )
+[ 2023-09-18 05:42:06,232 ] Disconnected from gameserver
+[ 2023-09-18 05:42:06,261 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2023-09-18 05:42:15,025 ] Retrying to obtain clipboard.
+[ 2023-09-18 05:42:15,457 ] Retrying to obtain clipboard.
+[ 2023-09-18 05:44:05,706 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2023-09-18 05:44:06,402 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "Druid Sample" )
+[ 2023-09-18 05:44:06,404 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 05:44:06,411 ] Connected to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 05:44:07,354 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2023-09-18 05:44:08,180 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2023-09-18 05:44:08,718 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "The remote host closed the connection" )
+[ 2023-09-18 05:44:08,778 ] Disconnected from gameserver
+[ 2023-09-18 05:44:08,882 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "Knight Sample" )
+[ 2023-09-18 05:44:08,885 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 05:44:08,893 ] Connected to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 05:44:09,838 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2023-09-18 05:44:13,918 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "The remote host closed the connection" )
+[ 2023-09-18 05:44:13,975 ] Disconnected from gameserver
+[ 2023-09-18 05:44:14,008 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2023-09-18 05:44:15,796 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "Paladin Sample" )
+[ 2023-09-18 05:44:15,799 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 05:44:15,806 ] Connected to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 05:44:16,746 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2023-09-18 05:44:19,166 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2023-09-18 05:44:21,169 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "The remote host closed the connection" )
+[ 2023-09-18 05:44:21,229 ] Disconnected from gameserver
+[ 2023-09-18 05:44:21,335 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "Rook Sample" )
+[ 2023-09-18 05:44:21,338 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 05:44:21,345 ] Connected to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 05:44:22,294 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2023-09-18 05:44:24,422 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2023-09-18 05:44:25,468 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "The remote host closed the connection" )
+[ 2023-09-18 05:44:25,525 ] Disconnected from gameserver
+[ 2023-09-18 05:44:25,646 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "Sorcerer Sample" )
+[ 2023-09-18 05:44:25,649 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 05:44:25,655 ] Connected to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 05:44:26,605 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2023-09-18 05:44:28,377 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2023-09-18 05:44:29,769 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "The remote host closed the connection" )
+[ 2023-09-18 05:44:29,829 ] Disconnected from gameserver
+[ 2023-09-18 05:44:29,953 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "Druid Sample" )
+[ 2023-09-18 05:44:29,953 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 05:44:29,959 ] Connected to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 05:44:30,900 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2023-09-18 05:44:52,769 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "The remote host closed the connection" )
+[ 2023-09-18 05:44:52,828 ] Disconnected from gameserver
+[ 2023-09-18 05:44:52,857 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2023-09-18 05:47:29,806 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2023-09-18 05:47:30,687 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "[GM] Rodrigo" )
+[ 2023-09-18 05:47:30,689 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 05:47:30,695 ] Connected to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 05:47:31,652 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2023-09-18 05:48:07,368 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "The remote host closed the connection" )
+[ 2023-09-18 05:48:07,432 ] Disconnected from gameserver
+[ 2023-09-18 05:48:07,474 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2023-09-18 05:48:08,393 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "[GM] Rodrigo" )
+[ 2023-09-18 05:48:08,395 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 05:48:09,353 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2023-09-18 05:48:12,519 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "Connection refused" )
+[ 2023-09-18 05:48:13,569 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 05:48:17,718 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "Connection refused" )
+[ 2023-09-18 05:48:17,724 ] Disconnected from gameserver
+[ 2023-09-18 05:48:18,875 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "[GM] Rodrigo" )
+[ 2023-09-18 05:48:18,878 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 05:48:19,843 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2023-09-18 05:48:23,018 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "Connection refused" )
+[ 2023-09-18 05:48:24,018 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 05:48:28,169 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "Connection refused" )
+[ 2023-09-18 05:48:28,174 ] Disconnected from gameserver
+[ 2023-09-18 05:48:29,328 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "[GM] Rodrigo" )
+[ 2023-09-18 05:48:29,369 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 05:48:30,292 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2023-09-18 05:48:33,518 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "Connection refused" )
+[ 2023-09-18 05:48:34,518 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 05:48:38,818 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "Connection refused" )
+[ 2023-09-18 05:48:38,824 ] Disconnected from gameserver
+[ 2023-09-18 05:48:39,975 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "[GM] Rodrigo" )
+[ 2023-09-18 05:48:39,978 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 05:48:40,934 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2023-09-18 05:48:44,119 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "Connection refused" )
+[ 2023-09-18 05:48:45,119 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 05:48:49,268 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "Connection refused" )
+[ 2023-09-18 05:48:49,273 ] Disconnected from gameserver
+[ 2023-09-18 05:48:51,518 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "[GM] Rodrigo" )
+[ 2023-09-18 05:48:51,522 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 05:48:52,481 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2023-09-18 05:48:55,668 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "Connection refused" )
+[ 2023-09-18 05:48:56,668 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 05:49:00,818 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "Connection refused" )
+[ 2023-09-18 05:49:00,822 ] Disconnected from gameserver
+[ 2023-09-18 05:49:05,259 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "[GM] Rodrigo" )
+[ 2023-09-18 05:49:05,262 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 05:49:06,215 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2023-09-18 05:49:09,419 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "Connection refused" )
+[ 2023-09-18 05:49:10,468 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 05:49:14,619 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "Connection refused" )
+[ 2023-09-18 05:49:14,624 ] Disconnected from gameserver
+[ 2023-09-18 05:49:20,156 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "[GM] Rodrigo" )
+[ 2023-09-18 05:49:20,158 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 05:49:21,125 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2023-09-18 05:49:24,318 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "Connection refused" )
+[ 2023-09-18 05:49:25,319 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 05:49:29,468 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "Connection refused" )
+[ 2023-09-18 05:49:29,473 ] Disconnected from gameserver
+[ 2023-09-18 05:49:35,006 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "[GM] Rodrigo" )
+[ 2023-09-18 05:49:35,009 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 05:49:35,964 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2023-09-18 05:49:39,319 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "Connection refused" )
+[ 2023-09-18 05:49:40,368 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 05:49:44,518 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "Connection refused" )
+[ 2023-09-18 05:49:44,523 ] Disconnected from gameserver
+[ 2023-09-18 05:49:50,045 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "[GM] Rodrigo" )
+[ 2023-09-18 05:49:50,047 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 05:49:50,998 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2023-09-18 05:49:54,218 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "Connection refused" )
+[ 2023-09-18 05:49:55,218 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 05:49:59,368 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "Connection refused" )
+[ 2023-09-18 05:49:59,373 ] Disconnected from gameserver
+[ 2023-09-18 05:50:04,917 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "[GM] Rodrigo" )
+[ 2023-09-18 05:50:04,920 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 05:50:05,873 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2023-09-18 05:50:09,068 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "Connection refused" )
+[ 2023-09-18 05:50:10,069 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 05:50:14,218 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "Connection refused" )
+[ 2023-09-18 05:50:14,228 ] Disconnected from gameserver
+[ 2023-09-18 05:56:13,202 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2023-09-18 05:56:23,485 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2023-09-18 05:56:24,368 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "Admins" )
+[ 2023-09-18 05:56:24,370 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 05:56:24,377 ] Connected to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 05:56:25,329 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2023-09-18 05:56:28,397 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2023-09-18 05:56:28,669 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "The remote host closed the connection" )
+[ 2023-09-18 05:56:28,726 ] Disconnected from gameserver
+[ 2023-09-18 05:56:28,850 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "Admins" )
+[ 2023-09-18 05:56:28,868 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 05:56:29,791 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2023-09-18 05:56:33,018 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "Connection refused" )
+[ 2023-09-18 05:56:34,019 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 05:56:38,168 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "Connection refused" )
+[ 2023-09-18 05:56:38,174 ] Disconnected from gameserver
+[ 2023-09-18 05:56:38,252 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "Admins" )
+[ 2023-09-18 05:56:38,259 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 05:56:39,214 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2023-09-18 05:56:42,418 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "Connection refused" )
+[ 2023-09-18 05:56:43,418 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 05:56:47,568 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "Connection refused" )
+[ 2023-09-18 05:56:47,573 ] Disconnected from gameserver
+[ 2023-09-18 05:56:47,658 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "Admins" )
+[ 2023-09-18 05:56:47,660 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 05:56:48,607 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2023-09-18 05:56:51,819 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "Connection refused" )
+[ 2023-09-18 05:56:52,868 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 05:56:57,068 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "Connection refused" )
+[ 2023-09-18 05:56:57,073 ] Disconnected from gameserver
+[ 2023-09-18 05:56:57,152 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "Admins" )
+[ 2023-09-18 05:56:57,155 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 05:56:58,104 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2023-09-18 05:57:01,318 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "Connection refused" )
+[ 2023-09-18 05:57:02,318 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 05:57:06,468 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "Connection refused" )
+[ 2023-09-18 05:57:06,473 ] Disconnected from gameserver
+[ 2023-09-18 05:57:06,551 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "Admins" )
+[ 2023-09-18 05:57:06,554 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 05:57:07,515 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2023-09-18 05:57:10,718 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "Connection refused" )
+[ 2023-09-18 05:57:11,718 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 05:57:15,868 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "Connection refused" )
+[ 2023-09-18 05:57:15,874 ] Disconnected from gameserver
+[ 2023-09-18 05:57:15,961 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "Admins" )
+[ 2023-09-18 05:57:15,964 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 05:57:16,919 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2023-09-18 05:57:20,119 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "Connection refused" )
+[ 2023-09-18 05:57:21,168 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 05:57:25,319 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "Connection refused" )
+[ 2023-09-18 05:57:25,324 ] Disconnected from gameserver
+[ 2023-09-18 05:57:25,404 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "Admins" )
+[ 2023-09-18 05:57:25,407 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 05:57:26,372 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2023-09-18 05:57:29,719 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "Connection refused" )
+[ 2023-09-18 05:57:30,768 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 05:57:34,918 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "Connection refused" )
+[ 2023-09-18 05:57:34,923 ] Disconnected from gameserver
+[ 2023-09-18 05:57:35,010 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "Admins" )
+[ 2023-09-18 05:57:35,013 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 05:57:35,968 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2023-09-18 05:57:39,169 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "Connection refused" )
+[ 2023-09-18 05:57:40,169 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 05:57:44,318 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "Connection refused" )
+[ 2023-09-18 05:57:44,323 ] Disconnected from gameserver
+[ 2023-09-18 05:57:44,397 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "Admins" )
+[ 2023-09-18 05:57:44,400 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 05:57:45,355 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2023-09-18 05:57:48,568 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "Connection refused" )
+[ 2023-09-18 05:57:49,618 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 05:57:53,768 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "Connection refused" )
+[ 2023-09-18 05:57:53,773 ] Disconnected from gameserver
+[ 2023-09-18 05:57:53,862 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "Admins" )
+[ 2023-09-18 05:57:53,864 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 05:57:54,824 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2023-09-18 05:57:58,018 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "Connection refused" )
+[ 2023-09-18 05:57:59,018 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 05:58:03,219 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "Connection refused" )
+[ 2023-09-18 05:58:03,230 ] Disconnected from gameserver
+[ 2023-09-18 05:58:03,348 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "Admins" )
+[ 2023-09-18 05:58:03,351 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 05:58:04,306 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2023-09-18 05:58:07,518 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "Connection refused" )
+[ 2023-09-18 05:58:08,518 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 05:58:12,668 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "Connection refused" )
+[ 2023-09-18 05:58:12,673 ] Disconnected from gameserver
+[ 2023-09-18 05:58:12,761 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "Admins" )
+[ 2023-09-18 05:58:12,765 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 05:58:13,715 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2023-09-18 05:58:16,918 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "Connection refused" )
+[ 2023-09-18 05:58:17,918 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 05:58:22,068 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "Connection refused" )
+[ 2023-09-18 05:58:22,073 ] Disconnected from gameserver
+[ 2023-09-18 05:58:22,148 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "Admins" )
+[ 2023-09-18 05:58:22,151 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 05:58:23,109 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2023-09-18 05:58:26,318 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "Connection refused" )
+[ 2023-09-18 05:58:27,318 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 05:58:31,618 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "Connection refused" )
+[ 2023-09-18 05:58:31,623 ] Disconnected from gameserver
+[ 2023-09-18 05:58:31,838 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "Admins" )
+[ 2023-09-18 05:58:31,841 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 05:58:32,792 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2023-09-18 05:58:36,019 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "Connection refused" )
+[ 2023-09-18 05:58:37,068 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 05:58:41,218 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "Connection refused" )
+[ 2023-09-18 05:58:41,223 ] Disconnected from gameserver
+[ 2023-09-18 05:58:41,382 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "Admins" )
+[ 2023-09-18 05:58:41,391 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 05:58:42,340 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2023-09-18 05:58:45,518 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "Connection refused" )
+[ 2023-09-18 05:58:46,518 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 05:58:49,783 ] Retrying to obtain clipboard.
+[ 2023-09-18 05:58:50,668 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "Connection refused" )
+[ 2023-09-18 05:58:50,674 ] Disconnected from gameserver
+[ 2023-09-18 05:58:50,761 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "Admins" )
+[ 2023-09-18 05:58:50,764 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 05:58:51,713 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2023-09-18 05:58:54,918 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "Connection refused" )
+[ 2023-09-18 05:58:55,918 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 05:59:00,069 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "Connection refused" )
+[ 2023-09-18 05:59:00,074 ] Disconnected from gameserver
+[ 2023-09-18 05:59:00,150 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "Admins" )
+[ 2023-09-18 05:59:00,152 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 05:59:01,109 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2023-09-18 05:59:04,318 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "Connection refused" )
+[ 2023-09-18 05:59:05,318 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 05:59:09,518 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "Connection refused" )
+[ 2023-09-18 05:59:09,524 ] Disconnected from gameserver
+[ 2023-09-18 05:59:09,600 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "Admins" )
+[ 2023-09-18 05:59:09,603 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 05:59:10,557 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2023-09-18 05:59:13,769 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "Connection refused" )
+[ 2023-09-18 05:59:14,818 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 05:59:18,968 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "Connection refused" )
+[ 2023-09-18 05:59:18,974 ] Disconnected from gameserver
+[ 2023-09-18 05:59:19,058 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "Admins" )
+[ 2023-09-18 05:59:19,061 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 05:59:20,011 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2023-09-18 05:59:23,219 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "Connection refused" )
+[ 2023-09-18 05:59:24,219 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 05:59:28,368 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "Connection refused" )
+[ 2023-09-18 05:59:28,373 ] Disconnected from gameserver
+[ 2023-09-18 05:59:28,458 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "Admins" )
+[ 2023-09-18 05:59:28,461 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 05:59:29,418 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2023-09-18 05:59:32,668 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "Connection refused" )
+[ 2023-09-18 05:59:33,718 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 05:59:37,868 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "Connection refused" )
+[ 2023-09-18 05:59:37,875 ] Disconnected from gameserver
+[ 2023-09-18 05:59:37,963 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "Admins" )
+[ 2023-09-18 05:59:37,965 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 05:59:38,917 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2023-09-18 05:59:42,118 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "Connection refused" )
+[ 2023-09-18 05:59:43,119 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 05:59:47,268 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "Connection refused" )
+[ 2023-09-18 05:59:47,273 ] Disconnected from gameserver
+[ 2023-09-18 05:59:47,350 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "Admins" )
+[ 2023-09-18 05:59:47,353 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 05:59:48,311 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2023-09-18 05:59:51,518 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "Connection refused" )
+[ 2023-09-18 05:59:52,518 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 05:59:56,426 ] Retrying to obtain clipboard.
+[ 2023-09-18 05:59:56,668 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "Connection refused" )
+[ 2023-09-18 05:59:56,674 ] Disconnected from gameserver
+[ 2023-09-18 05:59:56,755 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "Admins" )
+[ 2023-09-18 05:59:56,757 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 05:59:57,715 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2023-09-18 06:00:00,918 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "Connection refused" )
+[ 2023-09-18 06:00:01,918 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:00:06,068 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "Connection refused" )
+[ 2023-09-18 06:00:06,073 ] Disconnected from gameserver
+[ 2023-09-18 06:00:06,151 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "Admins" )
+[ 2023-09-18 06:00:06,156 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:00:07,107 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2023-09-18 06:00:10,320 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "Connection refused" )
+[ 2023-09-18 06:00:11,368 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:00:13,798 ] Retrying to obtain clipboard.
+[ 2023-09-18 06:00:15,568 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "Connection refused" )
+[ 2023-09-18 06:00:15,573 ] Disconnected from gameserver
+[ 2023-09-18 06:00:15,655 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "Admins" )
+[ 2023-09-18 06:00:15,658 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:00:16,622 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2023-09-18 06:00:17,425 ] Retrying to obtain clipboard.
+[ 2023-09-18 06:00:19,818 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "Connection refused" )
+[ 2023-09-18 06:00:20,818 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:00:24,968 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "Connection refused" )
+[ 2023-09-18 06:00:24,973 ] Disconnected from gameserver
+[ 2023-09-18 06:00:25,047 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "Admins" )
+[ 2023-09-18 06:00:25,050 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:00:26,013 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2023-09-18 06:00:29,218 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "Connection refused" )
+[ 2023-09-18 06:00:30,219 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:00:34,419 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "Connection refused" )
+[ 2023-09-18 06:00:34,425 ] Disconnected from gameserver
+[ 2023-09-18 06:00:34,513 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "Admins" )
+[ 2023-09-18 06:00:34,516 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:00:35,464 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2023-09-18 06:00:38,668 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "Connection refused" )
+[ 2023-09-18 06:00:39,719 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:00:43,868 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "Connection refused" )
+[ 2023-09-18 06:00:43,873 ] Disconnected from gameserver
+[ 2023-09-18 06:00:43,947 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "Admins" )
+[ 2023-09-18 06:00:43,950 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:00:44,902 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2023-09-18 06:00:48,068 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "Connection refused" )
+[ 2023-09-18 06:00:49,068 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:00:53,218 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "Connection refused" )
+[ 2023-09-18 06:00:53,223 ] Disconnected from gameserver
+[ 2023-09-18 06:00:53,310 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "Admins" )
+[ 2023-09-18 06:00:53,314 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:00:54,264 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2023-09-18 06:00:57,468 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "Connection refused" )
+[ 2023-09-18 06:00:58,468 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:01:02,618 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "Connection refused" )
+[ 2023-09-18 06:01:02,624 ] Disconnected from gameserver
+[ 2023-09-18 06:01:02,708 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "Admins" )
+[ 2023-09-18 06:01:02,712 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:01:03,667 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2023-09-18 06:01:06,868 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "Connection refused" )
+[ 2023-09-18 06:01:07,868 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:01:12,018 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "Connection refused" )
+[ 2023-09-18 06:01:12,025 ] Disconnected from gameserver
+[ 2023-09-18 06:01:12,108 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "Admins" )
+[ 2023-09-18 06:01:12,110 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:01:13,057 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2023-09-18 06:01:16,268 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "Connection refused" )
+[ 2023-09-18 06:01:17,269 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:01:21,418 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "Connection refused" )
+[ 2023-09-18 06:01:21,432 ] Disconnected from gameserver
+[ 2023-09-18 06:01:21,514 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "Admins" )
+[ 2023-09-18 06:01:21,517 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:01:22,466 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2023-09-18 06:01:25,669 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "Connection refused" )
+[ 2023-09-18 06:01:26,718 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:01:30,787 ] Retrying to obtain clipboard.
+[ 2023-09-18 06:01:30,868 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "Connection refused" )
+[ 2023-09-18 06:01:30,873 ] Disconnected from gameserver
+[ 2023-09-18 06:01:30,950 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "Admins" )
+[ 2023-09-18 06:01:30,952 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:01:31,902 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2023-09-18 06:01:35,169 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "Connection refused" )
+[ 2023-09-18 06:01:36,168 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:01:40,319 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "Connection refused" )
+[ 2023-09-18 06:01:40,324 ] Disconnected from gameserver
+[ 2023-09-18 06:01:40,413 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "Admins" )
+[ 2023-09-18 06:01:40,415 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:01:41,373 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2023-09-18 06:01:44,569 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "Connection refused" )
+[ 2023-09-18 06:01:45,619 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:01:49,768 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "Connection refused" )
+[ 2023-09-18 06:01:49,773 ] Disconnected from gameserver
+[ 2023-09-18 06:01:49,850 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "Admins" )
+[ 2023-09-18 06:01:49,853 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:01:50,810 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2023-09-18 06:01:54,018 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "Connection refused" )
+[ 2023-09-18 06:01:55,068 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:01:59,218 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "Connection refused" )
+[ 2023-09-18 06:01:59,224 ] Disconnected from gameserver
+[ 2023-09-18 06:01:59,311 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "Admins" )
+[ 2023-09-18 06:01:59,314 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:02:00,279 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2023-09-18 06:02:03,468 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "Connection refused" )
+[ 2023-09-18 06:02:04,468 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:02:08,618 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "Connection refused" )
+[ 2023-09-18 06:02:08,624 ] Disconnected from gameserver
+[ 2023-09-18 06:02:08,701 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "Admins" )
+[ 2023-09-18 06:02:08,703 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:02:09,666 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2023-09-18 06:02:12,819 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "Connection refused" )
+[ 2023-09-18 06:02:13,820 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:02:17,968 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "Connection refused" )
+[ 2023-09-18 06:02:17,973 ] Disconnected from gameserver
+[ 2023-09-18 06:02:18,057 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "Admins" )
+[ 2023-09-18 06:02:18,061 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:02:19,011 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2023-09-18 06:02:22,220 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "Connection refused" )
+[ 2023-09-18 06:02:23,268 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:02:27,418 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "Connection refused" )
+[ 2023-09-18 06:02:27,424 ] Disconnected from gameserver
+[ 2023-09-18 06:02:27,500 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "Admins" )
+[ 2023-09-18 06:02:27,502 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:02:28,463 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2023-09-18 06:02:31,668 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "Connection refused" )
+[ 2023-09-18 06:02:32,668 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:02:36,869 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "Connection refused" )
+[ 2023-09-18 06:02:36,873 ] Disconnected from gameserver
+[ 2023-09-18 06:02:36,956 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "Admins" )
+[ 2023-09-18 06:02:36,959 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:02:37,903 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2023-09-18 06:02:41,118 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "Connection refused" )
+[ 2023-09-18 06:02:42,118 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:02:46,268 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "Connection refused" )
+[ 2023-09-18 06:02:46,276 ] Disconnected from gameserver
+[ 2023-09-18 06:02:46,353 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "Admins" )
+[ 2023-09-18 06:02:46,356 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:02:47,310 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2023-09-18 06:02:50,502 ] Connected to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:02:50,568 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "The remote host closed the connection" )
+[ 2023-09-18 06:02:50,575 ] Disconnected from gameserver
+[ 2023-09-18 06:02:50,670 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "Admins" )
+[ 2023-09-18 06:02:50,673 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:02:50,680 ] Connected to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:02:50,718 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "The remote host closed the connection" )
+[ 2023-09-18 06:02:50,724 ] Disconnected from gameserver
+[ 2023-09-18 06:02:50,807 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "Admins" )
+[ 2023-09-18 06:02:50,810 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:02:50,816 ] Connected to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:02:50,868 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "The remote host closed the connection" )
+[ 2023-09-18 06:02:50,876 ] Disconnected from gameserver
+[ 2023-09-18 06:02:50,973 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "Admins" )
+[ 2023-09-18 06:02:50,975 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:02:50,982 ] Connected to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:02:51,018 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "The remote host closed the connection" )
+[ 2023-09-18 06:02:51,025 ] Disconnected from gameserver
+[ 2023-09-18 06:02:51,103 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "Admins" )
+[ 2023-09-18 06:02:51,106 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:02:51,114 ] Connected to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:02:51,168 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "The remote host closed the connection" )
+[ 2023-09-18 06:02:51,175 ] Disconnected from gameserver
+[ 2023-09-18 06:02:51,268 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "Admins" )
+[ 2023-09-18 06:02:51,270 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:02:51,277 ] Connected to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:02:51,318 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "The remote host closed the connection" )
+[ 2023-09-18 06:02:51,323 ] Disconnected from gameserver
+[ 2023-09-18 06:02:51,398 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "Admins" )
+[ 2023-09-18 06:02:51,401 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:02:51,409 ] Connected to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:02:51,418 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "The remote host closed the connection" )
+[ 2023-09-18 06:02:51,421 ] Disconnected from gameserver
+[ 2023-09-18 06:02:51,493 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "Admins" )
+[ 2023-09-18 06:02:51,496 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:02:51,503 ] Connected to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:02:51,518 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "The remote host closed the connection" )
+[ 2023-09-18 06:02:51,522 ] Disconnected from gameserver
+[ 2023-09-18 06:02:51,605 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "Admins" )
+[ 2023-09-18 06:02:51,608 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:02:51,615 ] Connected to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:02:51,668 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "The remote host closed the connection" )
+[ 2023-09-18 06:02:51,673 ] Disconnected from gameserver
+[ 2023-09-18 06:02:51,747 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "Admins" )
+[ 2023-09-18 06:02:51,750 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:02:51,757 ] Connected to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:02:51,769 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "The remote host closed the connection" )
+[ 2023-09-18 06:02:51,773 ] Disconnected from gameserver
+[ 2023-09-18 06:02:51,856 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "Admins" )
+[ 2023-09-18 06:02:51,858 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:02:51,866 ] Connected to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:02:51,919 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "The remote host closed the connection" )
+[ 2023-09-18 06:02:51,923 ] Disconnected from gameserver
+[ 2023-09-18 06:02:51,999 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "Admins" )
+[ 2023-09-18 06:02:52,002 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:02:52,009 ] Connected to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:02:52,018 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "The remote host closed the connection" )
+[ 2023-09-18 06:02:52,023 ] Disconnected from gameserver
+[ 2023-09-18 06:02:52,106 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "Admins" )
+[ 2023-09-18 06:02:52,108 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:02:52,115 ] Connected to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:02:52,169 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "The remote host closed the connection" )
+[ 2023-09-18 06:02:52,173 ] Disconnected from gameserver
+[ 2023-09-18 06:02:52,252 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "Admins" )
+[ 2023-09-18 06:02:52,256 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:02:52,263 ] Connected to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:02:52,268 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "The remote host closed the connection" )
+[ 2023-09-18 06:02:52,273 ] Disconnected from gameserver
+[ 2023-09-18 06:02:52,358 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "Admins" )
+[ 2023-09-18 06:02:52,360 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:02:52,367 ] Connected to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:02:52,418 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "The remote host closed the connection" )
+[ 2023-09-18 06:02:52,427 ] Disconnected from gameserver
+[ 2023-09-18 06:02:52,504 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "Admins" )
+[ 2023-09-18 06:02:52,507 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:02:52,513 ] Connected to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:02:52,518 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "The remote host closed the connection" )
+[ 2023-09-18 06:02:52,523 ] Disconnected from gameserver
+[ 2023-09-18 06:02:52,601 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "Admins" )
+[ 2023-09-18 06:02:52,605 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:02:52,613 ] Connected to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:02:52,618 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "The remote host closed the connection" )
+[ 2023-09-18 06:02:52,631 ] Disconnected from gameserver
+[ 2023-09-18 06:02:52,712 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "Admins" )
+[ 2023-09-18 06:02:52,714 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:02:52,723 ] Connected to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:02:52,768 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "The remote host closed the connection" )
+[ 2023-09-18 06:02:52,773 ] Disconnected from gameserver
+[ 2023-09-18 06:02:52,851 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "Admins" )
+[ 2023-09-18 06:02:52,854 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:02:52,862 ] Connected to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:02:52,869 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "The remote host closed the connection" )
+[ 2023-09-18 06:02:52,875 ] Disconnected from gameserver
+[ 2023-09-18 06:02:52,959 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "Admins" )
+[ 2023-09-18 06:02:52,963 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:02:52,971 ] Connected to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:02:53,018 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "The remote host closed the connection" )
+[ 2023-09-18 06:02:53,023 ] Disconnected from gameserver
+[ 2023-09-18 06:02:53,100 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "Admins" )
+[ 2023-09-18 06:02:53,104 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:02:53,111 ] Connected to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:02:53,118 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "The remote host closed the connection" )
+[ 2023-09-18 06:02:53,123 ] Disconnected from gameserver
+[ 2023-09-18 06:02:53,207 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "Admins" )
+[ 2023-09-18 06:02:53,210 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:02:53,216 ] Connected to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:02:53,268 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "The remote host closed the connection" )
+[ 2023-09-18 06:02:53,272 ] Disconnected from gameserver
+[ 2023-09-18 06:02:53,350 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "Admins" )
+[ 2023-09-18 06:02:53,353 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:02:53,363 ] Connected to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:02:53,369 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "The remote host closed the connection" )
+[ 2023-09-18 06:02:53,374 ] Disconnected from gameserver
+[ 2023-09-18 06:02:53,460 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "Admins" )
+[ 2023-09-18 06:02:53,464 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:02:53,473 ] Connected to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:02:53,519 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "The remote host closed the connection" )
+[ 2023-09-18 06:02:53,523 ] Disconnected from gameserver
+[ 2023-09-18 06:02:53,603 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "Admins" )
+[ 2023-09-18 06:02:53,607 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:02:53,615 ] Connected to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:02:53,669 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "The remote host closed the connection" )
+[ 2023-09-18 06:02:53,677 ] Disconnected from gameserver
+[ 2023-09-18 06:02:53,762 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "Admins" )
+[ 2023-09-18 06:02:53,766 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:02:53,773 ] Connected to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:02:53,819 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "The remote host closed the connection" )
+[ 2023-09-18 06:02:53,822 ] Disconnected from gameserver
+[ 2023-09-18 06:02:53,905 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "Admins" )
+[ 2023-09-18 06:02:53,909 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:02:53,917 ] Connected to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:02:53,968 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "The remote host closed the connection" )
+[ 2023-09-18 06:02:53,973 ] Disconnected from gameserver
+[ 2023-09-18 06:02:54,055 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "Admins" )
+[ 2023-09-18 06:02:54,059 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:02:54,067 ] Connected to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:02:54,118 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "The remote host closed the connection" )
+[ 2023-09-18 06:02:54,122 ] Disconnected from gameserver
+[ 2023-09-18 06:02:54,206 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "Admins" )
+[ 2023-09-18 06:02:54,210 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:02:54,218 ] Connected to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:02:54,270 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "The remote host closed the connection" )
+[ 2023-09-18 06:02:54,275 ] Disconnected from gameserver
+[ 2023-09-18 06:02:54,351 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "Admins" )
+[ 2023-09-18 06:02:54,355 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:02:54,363 ] Connected to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:02:54,368 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "The remote host closed the connection" )
+[ 2023-09-18 06:02:54,372 ] Disconnected from gameserver
+[ 2023-09-18 06:02:54,456 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "Admins" )
+[ 2023-09-18 06:02:54,458 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:02:54,467 ] Connected to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:02:54,518 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "The remote host closed the connection" )
+[ 2023-09-18 06:02:54,524 ] Disconnected from gameserver
+[ 2023-09-18 06:02:54,602 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "Admins" )
+[ 2023-09-18 06:02:54,605 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:02:54,613 ] Connected to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:02:54,669 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "The remote host closed the connection" )
+[ 2023-09-18 06:02:54,673 ] Disconnected from gameserver
+[ 2023-09-18 06:02:54,757 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "Admins" )
+[ 2023-09-18 06:02:54,761 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:02:54,768 ] Connected to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:02:54,819 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "The remote host closed the connection" )
+[ 2023-09-18 06:02:54,822 ] Disconnected from gameserver
+[ 2023-09-18 06:02:54,901 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "Admins" )
+[ 2023-09-18 06:02:54,904 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:02:54,911 ] Connected to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:02:54,918 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "The remote host closed the connection" )
+[ 2023-09-18 06:02:54,923 ] Disconnected from gameserver
+[ 2023-09-18 06:02:55,006 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "Admins" )
+[ 2023-09-18 06:02:55,010 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:02:55,018 ] Connected to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:02:55,068 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "The remote host closed the connection" )
+[ 2023-09-18 06:02:55,078 ] Disconnected from gameserver
+[ 2023-09-18 06:02:55,157 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "Admins" )
+[ 2023-09-18 06:02:55,161 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:02:55,169 ] Connected to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:02:55,219 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "The remote host closed the connection" )
+[ 2023-09-18 06:02:55,222 ] Disconnected from gameserver
+[ 2023-09-18 06:02:55,303 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "Admins" )
+[ 2023-09-18 06:02:55,306 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:02:55,313 ] Connected to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:02:55,369 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "The remote host closed the connection" )
+[ 2023-09-18 06:02:55,373 ] Disconnected from gameserver
+[ 2023-09-18 06:02:55,458 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "Admins" )
+[ 2023-09-18 06:02:55,461 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:02:55,468 ] Connected to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:02:55,519 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "The remote host closed the connection" )
+[ 2023-09-18 06:02:55,522 ] Disconnected from gameserver
+[ 2023-09-18 06:02:55,601 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "Admins" )
+[ 2023-09-18 06:02:55,604 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:02:55,611 ] Connected to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:02:55,620 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "The remote host closed the connection" )
+[ 2023-09-18 06:02:55,624 ] Disconnected from gameserver
+[ 2023-09-18 06:02:55,708 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "Admins" )
+[ 2023-09-18 06:02:55,713 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:02:55,722 ] Connected to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:02:55,768 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "The remote host closed the connection" )
+[ 2023-09-18 06:02:55,773 ] Disconnected from gameserver
+[ 2023-09-18 06:02:55,851 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "Admins" )
+[ 2023-09-18 06:02:55,855 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:02:55,862 ] Connected to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:02:55,870 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "The remote host closed the connection" )
+[ 2023-09-18 06:02:55,874 ] Disconnected from gameserver
+[ 2023-09-18 06:02:55,957 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "Admins" )
+[ 2023-09-18 06:02:55,961 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:02:55,968 ] Connected to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:02:56,019 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "The remote host closed the connection" )
+[ 2023-09-18 06:02:56,024 ] Disconnected from gameserver
+[ 2023-09-18 06:02:56,097 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "Admins" )
+[ 2023-09-18 06:02:56,102 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:02:56,108 ] Connected to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:02:56,118 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "The remote host closed the connection" )
+[ 2023-09-18 06:02:56,124 ] Disconnected from gameserver
+[ 2023-09-18 06:02:56,215 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "Admins" )
+[ 2023-09-18 06:02:56,222 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:02:56,231 ] Connected to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:02:56,269 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "The remote host closed the connection" )
+[ 2023-09-18 06:02:56,274 ] Disconnected from gameserver
+[ 2023-09-18 06:02:56,352 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "Admins" )
+[ 2023-09-18 06:02:56,357 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:02:56,365 ] Connected to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:02:56,420 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "The remote host closed the connection" )
+[ 2023-09-18 06:02:56,428 ] Disconnected from gameserver
+[ 2023-09-18 06:02:56,506 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "Admins" )
+[ 2023-09-18 06:02:56,509 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:02:56,517 ] Connected to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:02:56,569 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "The remote host closed the connection" )
+[ 2023-09-18 06:02:56,573 ] Disconnected from gameserver
+[ 2023-09-18 06:02:56,661 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "Admins" )
+[ 2023-09-18 06:02:56,665 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:02:56,673 ] Connected to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:02:56,719 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "The remote host closed the connection" )
+[ 2023-09-18 06:02:56,724 ] Disconnected from gameserver
+[ 2023-09-18 06:02:56,799 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "Admins" )
+[ 2023-09-18 06:02:56,802 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:02:56,810 ] Connected to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:02:56,818 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "The remote host closed the connection" )
+[ 2023-09-18 06:02:56,824 ] Disconnected from gameserver
+[ 2023-09-18 06:02:56,907 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "Admins" )
+[ 2023-09-18 06:02:56,913 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:02:56,919 ] Connected to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:02:56,969 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "The remote host closed the connection" )
+[ 2023-09-18 06:02:56,974 ] Disconnected from gameserver
+[ 2023-09-18 06:02:57,051 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "Admins" )
+[ 2023-09-18 06:02:57,055 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:02:57,063 ] Connected to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:02:57,068 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "The remote host closed the connection" )
+[ 2023-09-18 06:02:57,074 ] Disconnected from gameserver
+[ 2023-09-18 06:02:57,161 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "Admins" )
+[ 2023-09-18 06:02:57,166 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:02:57,174 ] Connected to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:02:57,220 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "The remote host closed the connection" )
+[ 2023-09-18 06:02:57,225 ] Disconnected from gameserver
+[ 2023-09-18 06:02:57,298 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "Admins" )
+[ 2023-09-18 06:02:57,304 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:02:57,312 ] Connected to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:02:57,320 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "The remote host closed the connection" )
+[ 2023-09-18 06:02:57,325 ] Disconnected from gameserver
+[ 2023-09-18 06:02:57,411 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "Admins" )
+[ 2023-09-18 06:02:57,415 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:02:57,423 ] Connected to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:02:57,469 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "The remote host closed the connection" )
+[ 2023-09-18 06:02:57,474 ] Disconnected from gameserver
+[ 2023-09-18 06:02:57,551 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "Admins" )
+[ 2023-09-18 06:02:57,555 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:02:57,563 ] Connected to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:02:57,570 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "The remote host closed the connection" )
+[ 2023-09-18 06:02:57,575 ] Disconnected from gameserver
+[ 2023-09-18 06:02:57,653 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "Admins" )
+[ 2023-09-18 06:02:57,657 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:02:57,665 ] Connected to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:02:57,733 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2023-09-18 06:02:58,607 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2023-09-18 06:03:05,271 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2023-09-18 06:03:07,505 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "[GM] Rodrigo]" )
+[ 2023-09-18 06:03:07,509 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:03:07,517 ] Connected to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:03:08,466 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2023-09-18 06:03:11,780 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2023-09-18 06:03:12,219 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "The remote host closed the connection" )
+[ 2023-09-18 06:03:12,279 ] Disconnected from gameserver
+[ 2023-09-18 06:03:12,404 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "[GM] Rodrigo]" )
+[ 2023-09-18 06:03:12,419 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:03:13,339 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2023-09-18 06:03:16,569 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "Connection refused" )
+[ 2023-09-18 06:03:17,570 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:03:21,489 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2023-09-18 06:06:25,333 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2023-09-18 06:06:25,524 ] Using spritesheet cache size of 910
+[ 2023-09-18 06:06:26,692 ] Asset loading complete
+[ 2023-09-18 06:06:35,218 ] BattlEye: "Initialized (v1.249)"
+[ 2023-09-18 06:06:35,218 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2023-09-18 06:06:35,218 ] BattlEye: "Restarting client is necessary, update required"
+[ 2023-09-18 06:06:35,218 ] BattlEye: "Config entry: GameID tibia"
+[ 2023-09-18 06:06:35,218 ] BattlEye: "Config entry: MasterPort 7171"
+[ 2023-09-18 06:06:35,280 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "[GM] Rodrigo" )
+[ 2023-09-18 06:06:35,286 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:06:35,294 ] Connected to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:06:43,447 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "The remote host closed the connection" )
+[ 2023-09-18 06:06:43,504 ] Disconnected from gameserver
+[ 2023-09-18 06:06:43,762 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "[GM] Rodrigo" )
+[ 2023-09-18 06:06:43,765 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:06:43,772 ] Connected to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:06:44,729 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2023-09-18 06:06:52,946 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2023-09-18 06:06:53,145 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "The remote host closed the connection" )
+[ 2023-09-18 06:06:53,204 ] Disconnected from gameserver
+[ 2023-09-18 06:06:53,314 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "[GM] Rodrigo" )
+[ 2023-09-18 06:06:53,317 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:06:53,324 ] Connected to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:06:54,276 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2023-09-18 06:08:45,046 ] Retrying to obtain clipboard.
+[ 2023-09-18 06:11:37,246 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "The remote host closed the connection" )
+[ 2023-09-18 06:11:37,311 ] Disconnected from gameserver
+[ 2023-09-18 06:13:14,244 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2023-09-18 06:13:15,343 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "[GM] Rodrigo" )
+[ 2023-09-18 06:13:15,345 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:13:15,511 ] Connected to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-18 06:13:16,310 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2023-09-18 06:13:43,643 ] Retrying to obtain clipboard.
+[ 2023-09-18 06:14:20,546 ] Connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"  was disconnected ( "The remote host closed the connection" )
+[ 2023-09-18 06:14:20,608 ] Disconnected from gameserver
+[ 2023-09-18 06:15:22,884 ] Retrying to obtain clipboard.
+[ 2023-09-18 06:15:25,623 ] Retrying to obtain clipboard.
+[ 2023-09-18 06:16:54,595 ] Retrying to obtain clipboard.
+[ 2023-09-18 06:17:05,148 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2023-09-25 21:50:38,974 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2023-09-25 21:50:39,431 ] Using spritesheet cache size of 910
+[ 2023-09-25 21:50:46,272 ] Asset loading complete
+[ 2023-09-25 21:51:48,608 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2023-09-25 21:51:48,794 ] Using spritesheet cache size of 910
+[ 2023-09-25 21:51:49,536 ] Asset loading complete
+[ 2023-09-25 21:51:59,664 ] BattlEye: "Initialized (v1.249)"
+[ 2023-09-25 21:51:59,664 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2023-09-25 21:51:59,664 ] BattlEye: "Restarting client is necessary, update required"
+[ 2023-09-25 21:51:59,664 ] BattlEye: "Config entry: GameID tibia"
+[ 2023-09-25 21:51:59,664 ] BattlEye: "Config entry: MasterPort 7171"
+[ 2023-09-25 21:51:59,725 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "[GM] Rodrigo" )
+[ 2023-09-25 21:51:59,732 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-25 21:51:59,930 ] Connected to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-25 21:52:01,225 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172"  (unprotected:  "tcp://luminera-rpg.servegame.com:7172" )  requested (Charakter "[GM] Rodrigo" )
+[ 2023-09-25 21:52:01,230 ] Request connection to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-25 21:52:01,238 ] Connected to gameserver  "tcp://luminera-rpg.servegame.com:7172" "Luminera"
+[ 2023-09-25 21:52:02,183 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2023-09-25 22:08:27,232 ] Retrying to obtain clipboard.
+[ 2023-09-25 22:08:27,445 ] Retrying to obtain clipboard.
+[ 2023-09-25 22:09:10,083 ] Retrying to obtain clipboard.
